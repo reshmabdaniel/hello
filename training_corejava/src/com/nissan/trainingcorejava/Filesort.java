@@ -10,7 +10,7 @@ public class Filesort {
 		try {
 			FileOutputStream fout = new FileOutputStream("D:\\test1.txt");
 			FileInputStream f = new FileInputStream("D:\\test2.txt");
-			int i =10;
+			int i =0;
 			while((a[i++]= f.read()) !=-1){
 				
 			}
